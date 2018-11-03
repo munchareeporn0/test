@@ -1,1 +1,2 @@
-/bin/bash
+a = 1
+print(a)
